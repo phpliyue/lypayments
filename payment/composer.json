@@ -1,0 +1,17 @@
+{
+    "name": "lypayment/payment",
+    "description": "CHINA churchyard payment api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LiPHP",
+            "email": "qmna.20@gmail.com",
+            "homepage": "https://github.com/phpliyue/lypayment"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lypayment\\payment\\": "src/Wx"
+        }
+    }
+}
