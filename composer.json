@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lypayment\\payment\\": "src/Wx"
+            "Lypayment\\payment\\": "payment/src/Wx"
         }
     }
 }
